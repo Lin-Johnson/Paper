@@ -1,6 +1,6 @@
 # Paper
 
-This is the source code of the paper 'MVF-SleepNet: Multi-view Fusion Network for Sleep Stage Classification'. 
+This is the source code of the paper 'Research on integrated model for financial fraud prediction'. 
 
 ## Environment Settings
 
